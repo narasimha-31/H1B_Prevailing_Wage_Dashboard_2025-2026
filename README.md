@@ -88,8 +88,7 @@ h1b-wage-navigator/
 ## Limitations
 
 - Cannot publish publicly (created with educational Power BI account)
-- Data is static - will need manual refresh when DOL releases 2026-2027 wages in July 2026
-- Does not include H2B or PERM-specific wage data
+
 
 ## Future Updates
 
