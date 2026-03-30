@@ -1,4 +1,4 @@
-# H1B Wage Navigator
+# H1B Prevailing Wage Dashboard
 
 A Power BI dashboard that makes searching H1B prevailing wages actually usable.
 
