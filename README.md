@@ -20,9 +20,9 @@ This dashboard lets you:
 - Filter by specific area
 - Sort and explore data in seconds
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard.png)
 
-![Data Table View](screenshots/data-table.png)
+![Comparison Chart View](screenshots/chart.png)
 
 ## Why This Matters Now
 
