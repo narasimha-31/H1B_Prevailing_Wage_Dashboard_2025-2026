@@ -17,8 +17,8 @@ If you've ever tried to look up prevailing wages for multiple locations, you kno
 This dashboard lets you:
 - Search any job title and see wages across all U.S. metro areas instantly
 - Compare Entry Level (L1) through Expert Level (L4) side by side
-- Filter by state or specific metropolitan area
-- Sort and explore data in seconds, not hours
+- Filter by specific area
+- Sort and explore data in seconds
 
 ![Dashboard Overview](screenshots/dashboard-overview.png)
 
@@ -69,7 +69,6 @@ The raw OFLC data required significant cleaning:
 - State and metro area filters
 - Visual comparison chart across regions
 - Detailed data table with export capability
-- Clean, minimal interface
 
 ## File Structure
 ```
