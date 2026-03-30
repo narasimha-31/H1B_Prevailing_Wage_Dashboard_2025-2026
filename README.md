@@ -98,4 +98,4 @@ h1b-wage-navigator/
 
 ---
 
-Built by [Your Name] | [Your Portfolio URL]
+Built by Narasimha Royal | https://narasimharoyal.com
